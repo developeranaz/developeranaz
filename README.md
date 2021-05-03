@@ -7,14 +7,13 @@
 **developeranaz/developeranaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a Civil Engineering Student.
-- 🌱 I’m currently learning shell
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👷 I’m currently a Civil Engineering Student.
+- 🌱 I’m currently learning shell scripting & Python
+- 👯 I’m looking to collaborate on Nothing
+- 🤔 I’m looking for help to find bugs in my repo.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Instagram
+- 😄 Pronouns: Heroku webapps 
 
 #### Github Stats
 
