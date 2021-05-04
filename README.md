@@ -7,6 +7,7 @@
 **developeranaz/developeranaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/developeranaz/&title=Profile%20Views)
 - 👷 I’m currently a Civil Engineering Student.
 - 🌱 I’m currently learning shell scripting & Python
 - 👯 I’m looking to collaborate on Nothing
