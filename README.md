@@ -10,7 +10,7 @@ Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 
 - 👷 I’m currently a Civil Engineering Student.
 - 🌱 I’m currently learning shell scripting & Python
-- 👯 I’m looking to contributers.
+- 👯 I’m looking to Contributors.
 - 🤔 I’m looking for help to find bugs in my repo.
 - 💬 Ask me about ...
 - 📫 How to reach me: Instagram
