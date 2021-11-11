@@ -8,13 +8,6 @@ Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 -->
 [![VISITORS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloperanaz&count_bg=%23FF1A00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 👷 I’m currently a Civil Engineering Student.
-- 🌱 I’m currently learning shell scripting & Python
-- 👯 I’m looking to Contributors.
-- 🤔 I’m looking for help to find bugs in my repo.
-- 💬 Ask me about ...
-- 📫 How to reach me: Instagram
-- 😄 Pronouns: Heroku webapps 
 
 #### Github Stats
 
