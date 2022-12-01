@@ -19,4 +19,3 @@ SnapChat : https://www.snapchat.com/add/gitdevanaz
 ![developeranaz's github stats](https://github-readme-stats.vercel.app/api?username=developeranaz&count_private=true&theme=tokyonight&hide=contribs,prs)
 Donate me BTC :`1J48LksQNiASuj48nwYATXdFzQSwdrnx7c`
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hefzkevud13af4x0cv3rg4cvn)
