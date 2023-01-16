@@ -2,7 +2,7 @@
 
 Quiet people have the loudest minds.😶
 
-Telegram : https://www.t.me/gitdeveloperanaz
+Telegram : https://telegram.me/gitdeveloperanaz
 
 SnapChat : https://www.snapchat.com/add/gitdevanaz
 
