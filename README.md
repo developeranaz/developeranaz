@@ -6,6 +6,8 @@ Telegram : https://telegram.me/gitdeveloperanaz
 
 SnapChat : https://www.snapchat.com/add/gitdevanaz
 
+Instagram : https://instagram.com/t_h_e_anas
+
 #### Profile Visits 
 
 <!--
