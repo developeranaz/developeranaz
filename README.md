@@ -7,7 +7,7 @@
 - Open to freelance projects and collaborations
 
 ## Contact
-- 📧 [Email](mailto:developeranaz@protonmail.com)
+- 📧 [Email](mailto:developeranaz@duck.com)
 - 📱 [Telegram](https://telegram.me/gitdeveloperanaz)
 - 📸 [Instagram](https://instagram.com/t_h_e_anas)
 - 💼 [Freelancer](https://www.freelancer.in/u/GitDevAnaZ?sb=t)
