@@ -1,17 +1,16 @@
-### Hey, I'm Anas 👋
+# Hi, I'm Anas 👋
 
-"Quiet minds create the loudest impact." 😶
+## About Me
+- Civil Engineer
+- Freelance Developer
+- Interested in building useful tools and automation
+- Open to freelance projects and collaborations
 
-Connect with me:  
-📱 [Telegram](https://telegram.me/gitdeveloperanaz)  
-👻 [SnapChat](https://www.snapchat.com/add/gitdevanaz)  
-📸 [Instagram](https://instagram.com/t_h_e_anas)
+## Contact
+- 📧 [Email](mailto:developeranaz@protonmail.com)
+- 📱 [Telegram](https://telegram.me/gitdeveloperanaz)
+- 📸 [Instagram](https://instagram.com/t_h_e_anas)
+- 💼 [Freelancer](https://www.freelancer.in/u/GitDevAnaZ?sb=t)
 
-💼 [Freelancer](https://www.freelancer.in/u/GitDevAnaZ?sb=t)
-
-
-#### GitHub Stats  
+## GitHub Stats
 ![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developeranaz&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-Support my work:  
-₿ BTC: `1J48LksQNiASuj48nwYATXdFzQSwdrnx7c`
